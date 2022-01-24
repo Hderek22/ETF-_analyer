@@ -25,7 +25,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Hderek22">
-    <img src="images/logo.png" alt="Logo" width="800" height="600">
+    <img src="images/logo.png" alt="Logo" width="800" height="300">
   </a>
 
 <h3 align="center">ETF Analyzer</h3>
