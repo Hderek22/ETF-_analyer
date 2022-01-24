@@ -53,12 +53,7 @@ This is an ETF Analyzer
 
 ### Built With
 
-* [Pandas](https://pandas.pydata.org/pandas-docs/stable/user_guide/visualization.html)
-* [Jupyter lab](https://jupyter.org/)
-* [Python](https://www.python.org/)
-* [PyViz](https://pyvis.readthedocs.io/en/latest/)
-* [Geoviews](https://geoviews.org/)
-* [HvPlot](https://hvplot.holoviz.org/)
+*
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
